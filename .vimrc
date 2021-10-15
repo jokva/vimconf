@@ -64,9 +64,6 @@
     " Git wrapper inside Vim
     Plug 'tpope/vim-fugitive'
 
-    " Handle surround chars like ''
-    Plug 'tpope/vim-surround'
-
     " Align your = etc.
     Plug 'junegunn/vim-easy-align'
 
