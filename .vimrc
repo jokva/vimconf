@@ -58,12 +58,6 @@
     " https://github.com/junegunn/vim-plug/issues/225
     Plug 'nanotech/jellybeans.vim'
 
-    " Universal commenting with toggle, motions, embedded syntax and more
-    Plug 'tomtom/tcomment_vim'
-
-    " Autoclose (, " etc
-    Plug 'somini/vim-autoclose'
-
     " UNIX shell command helpers, e.g. sudo, chmod, remove etc.
     Plug 'tpope/vim-eunuch'
 
