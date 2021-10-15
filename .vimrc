@@ -43,9 +43,6 @@
     " Default to same plugin directory as vundle etc
     call plug#begin('~/.vim/bundle')
 
-    " <Tab> everything!
-    Plug 'ervandew/supertab'
-
     " Fuzzy finder (files, mru, etc)
     Plug 'ctrlpvim/ctrlp.vim'
 
